@@ -1,0 +1,27 @@
+﻿:root {
+    --primary: #102B3C;
+    --secondary: #205375;
+    --secondary-light: #F0EFEF;
+    --accent: #ED1C24;
+    --light: #f7f7f7;
+    --dark: black;
+    --shade: rgba(125, 125, 125, 0.5);
+    --shadow: 4px 4px 10px rgba(200, 200, 200, 0.5);
+    --gradiant-to-right: linear-gradient(to right, #102B3C, #EC1C24);
+    --gradiant-to-up: linear-gradient(to top, #102B3C, #EC1C24);
+}
+
+.darkmode {
+    --light: #fff;
+    --dark: #000;
+}
+
+@font-face {
+    font-family: "Montserrat-Reg";
+    src: url("../fonts/Montserrat/Montserrat-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Montserrat-Bold";
+    src: url("../fonts/Montserrat/Montserrat-Bold.ttf");
+}
