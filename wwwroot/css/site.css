@@ -12,6 +12,7 @@
     --gradiant-to-up: linear-gradient(to top, #102B3C, #EC1C24);
     --rz-primary: #102B3C !important;
     --rz-danger: #ED1C24 !important;
+    --rz-link-color: #ED1C24 !important;
 }
 .darkmode {
     --light: #fff;
