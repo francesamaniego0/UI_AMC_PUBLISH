@@ -1,0 +1,49 @@
+﻿/* Dark mode Quill overrides */
+.dark .ql-toolbar {
+    background-color: #1e2d3d;
+    border-color: rgba(255,255,255,0.15) !important;
+}
+
+.dark .ql-container {
+    background-color: #1a2535;
+    border-color: rgba(255,255,255,0.15) !important;
+    color: #e2e8f0;
+}
+
+.dark .ql-editor.ql-blank::before {
+    color: rgba(255,255,255,0.3);
+}
+
+.dark .ql-stroke {
+    stroke: rgba(255,255,255,0.6) !important;
+}
+
+.dark .ql-fill {
+    fill: rgba(255,255,255,0.6) !important;
+}
+
+.dark .ql-picker-label {
+    color: rgba(255,255,255,0.6) !important;
+}
+.dark .ql-editor {
+    color: #e2e8f0;
+}
+.ql-editor p,
+.ql-editor li,
+.ql-editor h1,
+.ql-editor h2,
+.ql-editor h3 {
+    color: #000;
+}
+
+.dark .ql-editor p,
+.dark .ql-editor li,
+.dark .ql-editor h1,
+.dark .ql-editor h2,
+.dark .ql-editor h3 {
+    color: #e2e8f0;
+}
+
+.dark .ql-editor {
+    color: #e2e8f0 ;
+}

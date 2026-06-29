@@ -1,4 +1,4 @@
-/*! tailwindcss v4.2.2 | MIT License | https://tailwindcss.com */
+/*! tailwindcss v4.3.1 | MIT License | https://tailwindcss.com */
 @layer theme, base, components, utilities;
 @layer theme {
   :root, :host {
@@ -6,18 +6,80 @@
       "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     --odc-font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
       "Courier New", monospace;
+    --odc-color-red-50: oklch(97.1% 0.013 17.38);
+    --odc-color-red-100: oklch(93.6% 0.032 17.717);
+    --odc-color-red-200: oklch(88.5% 0.062 18.334);
+    --odc-color-red-400: oklch(70.4% 0.191 22.216);
     --odc-color-red-500: oklch(63.7% 0.237 25.331);
+    --odc-color-red-600: oklch(57.7% 0.245 27.325);
+    --odc-color-red-700: oklch(50.5% 0.213 27.518);
+    --odc-color-red-800: oklch(44.4% 0.177 26.899);
+    --odc-color-red-900: oklch(39.6% 0.141 25.723);
+    --odc-color-red-950: oklch(25.8% 0.092 26.042);
+    --odc-color-amber-400: oklch(82.8% 0.189 84.429);
+    --odc-color-yellow-50: oklch(98.7% 0.026 102.212);
+    --odc-color-yellow-100: oklch(97.3% 0.071 103.193);
+    --odc-color-yellow-200: oklch(94.5% 0.129 101.54);
+    --odc-color-yellow-400: oklch(85.2% 0.199 91.936);
     --odc-color-yellow-500: oklch(79.5% 0.184 86.047);
+    --odc-color-yellow-700: oklch(55.4% 0.135 66.442);
+    --odc-color-yellow-800: oklch(47.6% 0.114 61.907);
+    --odc-color-yellow-950: oklch(28.6% 0.066 53.813);
+    --odc-color-green-50: oklch(98.2% 0.018 155.826);
+    --odc-color-green-100: oklch(96.2% 0.044 156.743);
     --odc-color-green-200: oklch(92.5% 0.084 155.995);
+    --odc-color-green-400: oklch(79.2% 0.209 151.711);
     --odc-color-green-600: oklch(62.7% 0.194 149.214);
     --odc-color-green-700: oklch(52.7% 0.154 150.069);
+    --odc-color-green-800: oklch(44.8% 0.119 151.328);
+    --odc-color-green-900: oklch(39.3% 0.095 152.535);
+    --odc-color-green-950: oklch(26.6% 0.065 152.934);
+    --odc-color-emerald-400: oklch(76.5% 0.177 163.223);
+    --odc-color-emerald-500: oklch(69.6% 0.17 162.48);
+    --odc-color-sky-400: oklch(74.6% 0.16 232.661);
+    --odc-color-sky-500: oklch(68.5% 0.169 237.323);
+    --odc-color-blue-50: oklch(97% 0.014 254.604);
+    --odc-color-blue-100: oklch(93.2% 0.032 255.585);
+    --odc-color-blue-200: oklch(88.2% 0.059 254.128);
+    --odc-color-blue-400: oklch(70.7% 0.165 254.624);
+    --odc-color-blue-600: oklch(54.6% 0.245 262.881);
+    --odc-color-blue-700: oklch(48.8% 0.243 264.376);
+    --odc-color-blue-800: oklch(42.4% 0.199 265.638);
+    --odc-color-blue-900: oklch(37.9% 0.146 265.522);
+    --odc-color-blue-950: oklch(28.2% 0.091 267.935);
+    --odc-color-purple-400: oklch(71.4% 0.203 305.504);
+    --odc-color-rose-400: oklch(71.2% 0.194 13.428);
+    --odc-color-rose-500: oklch(64.5% 0.246 16.439);
+    --odc-color-gray-50: oklch(98.5% 0.002 247.839);
+    --odc-color-gray-100: oklch(96.7% 0.003 264.542);
+    --odc-color-gray-200: oklch(92.8% 0.006 264.531);
     --odc-color-gray-300: oklch(87.2% 0.01 258.338);
+    --odc-color-gray-400: oklch(70.7% 0.022 261.325);
+    --odc-color-gray-500: oklch(55.1% 0.027 264.364);
+    --odc-color-gray-600: oklch(44.6% 0.03 256.802);
+    --odc-color-gray-700: oklch(37.3% 0.034 259.733);
+    --odc-color-gray-800: oklch(27.8% 0.033 256.848);
+    --odc-color-gray-900: oklch(21% 0.034 264.665);
+    --odc-color-zinc-50: oklch(98.5% 0 0);
+    --odc-color-zinc-100: oklch(96.7% 0.001 286.375);
+    --odc-color-zinc-200: oklch(92% 0.004 286.32);
+    --odc-color-zinc-300: oklch(87.1% 0.006 286.286);
+    --odc-color-zinc-600: oklch(44.2% 0.017 285.786);
+    --odc-color-zinc-700: oklch(37% 0.013 285.805);
+    --odc-color-zinc-800: oklch(27.4% 0.006 286.033);
+    --odc-color-zinc-900: oklch(21% 0.006 285.885);
     --odc-color-black: #000;
+    --odc-color-white: #fff;
     --odc-spacing: 0.25rem;
+    --odc-container-sm: 24rem;
+    --odc-container-md: 28rem;
+    --odc-container-2xl: 42rem;
     --odc-text-xs: 0.75rem;
     --odc-text-xs--line-height: calc(1 / 0.75);
     --odc-text-sm: 0.875rem;
     --odc-text-sm--line-height: calc(1.25 / 0.875);
+    --odc-text-base: 1rem;
+    --odc-text-base--line-height: calc(1.5 / 1);
     --odc-text-lg: 1.125rem;
     --odc-text-lg--line-height: calc(1.75 / 1.125);
     --odc-text-xl: 1.25rem;
@@ -26,13 +88,26 @@
     --odc-text-2xl--line-height: calc(2 / 1.5);
     --odc-text-4xl: 2.25rem;
     --odc-text-4xl--line-height: calc(2.5 / 2.25);
+    --odc-text-5xl: 3rem;
+    --odc-text-5xl--line-height: 1;
+    --odc-font-weight-medium: 500;
     --odc-font-weight-semibold: 600;
     --odc-font-weight-bold: 700;
     --odc-font-weight-extrabold: 800;
+    --odc-font-weight-black: 900;
+    --odc-tracking-tight: -0.025em;
+    --odc-tracking-wide: 0.025em;
+    --odc-tracking-widest: 0.1em;
+    --odc-leading-tight: 1.25;
+    --odc-leading-relaxed: 1.625;
     --odc-radius-sm: 0.25rem;
     --odc-radius-lg: 0.5rem;
     --odc-radius-xl: 0.75rem;
+    --odc-radius-2xl: 1rem;
     --odc-ease-in-out: cubic-bezier(0.4, 0, 0.2, 1);
+    --odc-animate-spin: spin 1s linear infinite;
+    --odc-animate-pulse: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+    --odc-blur-sm: 8px;
     --odc-default-transition-duration: 150ms;
     --odc-default-transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
     --odc-default-font-family: var(--odc-font-sans);
@@ -188,3 +263,13 @@
   }
 }
 @layer utilities;
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+@keyframes pulse {
+  50% {
+    opacity: 0.5;
+  }
+}

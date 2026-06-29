@@ -1,2 +1,2 @@
 ﻿@import "tailwindcss" prefix(odc);
-
+@custom-variant dark (&:where(.dark, .dark *));

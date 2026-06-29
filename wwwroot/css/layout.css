@@ -15,7 +15,7 @@
     color: var(--dark);
 }
 .side-bar {
-    background: var(--primary);
+/*    background: var(--primary);*/
     height: calc(100vh);
     padding: 15px;
 }
@@ -23,6 +23,7 @@
     display: flex;
     gap: 10px;
     justify-content: start;
+    padding: .4rem
 }
 .side-bar .logout-section{
     position: absolute;
@@ -51,3 +52,22 @@
         display: flex;
     }
 }
+input{
+    color: unset;
+}
+/* Tailwind dark: variants won't apply inside here because
+   we're resetting the context without the .dark ancestor */
+[data-theme="light"],
+[data-theme="light"] * {
+    color-scheme: light;
+}
+
+/* Explicitly revert dark-mode background/text overrides */
+.dark [data-theme="light"] {
+    background-color: white;
+    color: #111;
+}
+
+    .dark [data-theme="light"] * {
+        --tw-bg-opacity: 1;
+    }

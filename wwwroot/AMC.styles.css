@@ -1,3 +1,60 @@
+/* _content/AMC/Components/Layout/Common/ToastNotification.razor.rz.scp.css */
+/* Enter: slide in from right */
+.toast-enter[b-uor3o4vqgj] {
+    animation: toast-slide-in-b-uor3o4vqgj 0.35s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
+
+/* Already entered: no animation, just sit in place */
+.toast-entered[b-uor3o4vqgj] {
+    opacity: 1;
+    transform: translateX(0);
+}
+
+/* Exit: slide out to left */
+.toast-exit[b-uor3o4vqgj] {
+    animation: toast-slide-out-b-uor3o4vqgj 0.3s cubic-bezier(0.4, 0, 1, 1) forwards;
+    pointer-events: none;
+}
+
+/* Timer progress bar */
+.toast-timer[b-uor3o4vqgj] {
+    animation: toast-timer-drain-b-uor3o4vqgj linear forwards;
+    transform-origin: left;
+}
+
+@keyframes toast-slide-in-b-uor3o4vqgj {
+    from {
+        opacity: 0;
+        transform: translateX(110%);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+@keyframes toast-slide-out-b-uor3o4vqgj {
+    from {
+        opacity: 1;
+        transform: translateX(0);
+    }
+
+    to {
+        opacity: 0;
+        transform: translateX(110%);
+    }
+}
+
+@keyframes toast-timer-drain-b-uor3o4vqgj {
+    from {
+        transform: scaleX(1);
+    }
+
+    to {
+        transform: scaleX(0);
+    }
+}
 /* _content/AMC/Components/Layout/MainLayout.razor.rz.scp.css */
 .page[b-yqlps4m3yk] {
     position: relative;
