@@ -1356,6 +1356,12 @@
   .odc\:p-15 {
     padding: calc(var(--odc-spacing) * 15);
   }
+  .odc\:px-1 {
+    padding-inline: var(--odc-spacing);
+  }
+  .odc\:px-1\.5 {
+    padding-inline: calc(var(--odc-spacing) * 1.5);
+  }
   .odc\:px-2 {
     padding-inline: calc(var(--odc-spacing) * 2);
   }
