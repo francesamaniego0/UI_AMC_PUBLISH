@@ -1,4 +1,4 @@
-/*! tailwindcss v4.3.1 | MIT License | https://tailwindcss.com */
+/*! tailwindcss v4.3.2 | MIT License | https://tailwindcss.com */
 @layer theme, base, components, utilities;
 @layer theme {
   :root, :host {
@@ -29,7 +29,6 @@
     --odc-color-green-100: oklch(96.2% 0.044 156.743);
     --odc-color-green-200: oklch(92.5% 0.084 155.995);
     --odc-color-green-400: oklch(79.2% 0.209 151.711);
-    --odc-color-green-600: oklch(62.7% 0.194 149.214);
     --odc-color-green-700: oklch(52.7% 0.154 150.069);
     --odc-color-green-800: oklch(44.8% 0.119 151.328);
     --odc-color-green-900: oklch(39.3% 0.095 152.535);
@@ -74,6 +73,7 @@
     --odc-container-sm: 24rem;
     --odc-container-md: 28rem;
     --odc-container-2xl: 42rem;
+    --odc-container-3xl: 48rem;
     --odc-text-xs: 0.75rem;
     --odc-text-xs--line-height: calc(1 / 0.75);
     --odc-text-sm: 0.875rem;
@@ -97,14 +97,12 @@
     --odc-font-weight-black: 900;
     --odc-tracking-tight: -0.025em;
     --odc-tracking-wide: 0.025em;
-    --odc-tracking-widest: 0.1em;
     --odc-leading-tight: 1.25;
     --odc-leading-relaxed: 1.625;
     --odc-radius-sm: 0.25rem;
     --odc-radius-lg: 0.5rem;
     --odc-radius-xl: 0.75rem;
     --odc-radius-2xl: 1rem;
-    --odc-ease-in-out: cubic-bezier(0.4, 0, 0.2, 1);
     --odc-animate-spin: spin 1s linear infinite;
     --odc-animate-pulse: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
     --odc-blur-sm: 8px;
