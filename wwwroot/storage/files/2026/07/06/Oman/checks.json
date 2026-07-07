@@ -1,0 +1,1346 @@
+[
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T08:14:41.5118617Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1493,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T08:16:11.476063Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1463,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T08:17:11.4882913Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1434,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T08:18:41.4927477Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1550,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T08:20:11.4855252Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1435,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T08:21:41.4781788Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1622,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T08:23:11.4637863Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1660,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T08:24:11.5192537Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1460,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T08:25:41.524982Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1432,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T08:27:11.4835704Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1960,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T08:28:41.4760554Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1500,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T08:29:41.4889274Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1420,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T08:31:11.4827026Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1583,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T08:32:41.4910425Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1490,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T08:34:11.4864458Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1439,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T08:35:41.4797696Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1489,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T08:37:11.4674308Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1469,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T08:38:11.5060438Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 2149,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T08:39:41.4693427Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1734,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T08:41:11.4711933Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1655,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T08:42:14.2802278Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1505,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T08:43:41.4671987Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1469,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T08:44:41.4828423Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1670,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T08:46:11.4907625Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1570,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T08:47:41.4871049Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1471,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T08:49:11.8029497Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1444,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T08:50:41.7734913Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1463,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T08:52:11.7758704Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1535,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T08:53:41.4780022Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1485,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T08:55:11.4749069Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1516,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T08:56:41.4720416Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1521,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T08:57:41.5140979Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1478,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T08:59:11.4741848Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1466,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T09:00:11.5164437Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1503,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T09:01:41.4768738Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1529,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T09:03:14.3073283Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1539,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T09:04:41.4765026Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1503,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T09:06:11.4678741Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1467,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T09:07:41.4818452Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1524,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T09:09:11.4684319Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1509,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T09:10:11.4778901Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1483,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T09:11:41.4644509Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1472,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T09:12:41.4696033Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1432,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T09:13:41.4801012Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1507,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T09:15:11.4744332Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1487,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T09:16:41.4751863Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1442,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T09:18:11.5042051Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1450,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T09:19:41.4859742Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1492,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T09:21:11.4878998Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1558,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T09:22:41.4924602Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1493,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T09:24:11.4869552Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1514,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T09:25:41.5092067Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1562,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T09:27:11.5106151Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 2338,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T09:28:41.4888546Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1564,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T09:30:11.4752727Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1447,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T09:31:41.4748893Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1554,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T09:32:54.2891367Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1522,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T09:34:24.2808541Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1506,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T09:35:54.2455993Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1529,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T09:36:54.2517176Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1430,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T09:40:38.8854075Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1591,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T09:42:08.7237837Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1674,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T09:43:38.7129091Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1674,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T09:48:26.3296913Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1516,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T09:49:56.1724584Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1481,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T09:54:54.3298241Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1463,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T09:56:24.1418783Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1771,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T09:57:54.1183047Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1554,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T09:59:24.1345312Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1579,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T10:00:54.0933787Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1460,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T10:02:24.0973219Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1543,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T10:03:54.0837373Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1656,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T10:04:54.0998467Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1433,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T10:05:54.1301173Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1462,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T10:07:24.0970163Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1423,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T10:08:54.0945048Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1445,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T10:10:24.0923285Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1448,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T10:11:24.0970148Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1579,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T10:12:24.1118357Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1486,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T10:13:54.1052267Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1417,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T10:15:24.1052815Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 2124,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T10:16:54.1000104Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 2640,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T10:29:13.8996585Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1622,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T10:30:42.759552Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1501,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T10:32:12.7451779Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1556,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T10:33:42.7390024Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1571,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T10:35:12.7249409Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1520,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T10:36:12.7427538Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1566,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T10:37:42.7315716Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1431,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T10:38:42.7535823Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1566,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T10:40:12.7412781Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1541,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T10:41:42.7430372Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1545,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T10:43:12.7526167Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 2540,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T10:44:42.7468289Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1716,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T10:46:12.7428319Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1492,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T10:47:42.7393053Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1523,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T10:48:42.7486845Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1720,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T10:50:12.7507537Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1434,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T10:51:42.7407578Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1564,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T10:53:12.7372962Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1407,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T10:54:12.747713Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1504,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T10:55:42.7868439Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1508,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T10:57:12.7641658Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 4151,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T10:58:42.7518784Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1503,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T11:00:12.7507767Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1540,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T11:01:42.743984Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1553,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T11:03:12.7378528Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1452,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T11:04:12.7510641Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1482,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T11:05:42.7496939Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1451,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T11:07:12.7490891Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1539,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T11:08:42.7410285Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1498,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T11:10:12.7445324Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1509,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T11:11:42.7591309Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1694,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T11:12:46.1984239Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1516,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T11:14:13.1190652Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1470,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T11:15:42.7526892Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1546,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T11:17:12.7517683Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1480,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T11:18:42.7502831Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1484,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T11:20:12.7533969Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1481,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T11:21:42.7419589Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1568,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T11:23:13.2073905Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1549,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T11:24:13.8744453Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1467,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T11:25:42.7438468Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1474,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T11:27:12.7766222Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1599,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T11:28:42.7608519Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1543,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T11:30:12.7515616Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1765,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T11:31:43.1704258Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1471,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T11:32:42.4312436Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1556,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T11:34:12.3957616Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1500,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T11:35:42.3845281Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1460,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T11:36:42.3940723Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1478,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T11:38:12.3819264Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1499,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T11:39:42.3756311Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1564,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T11:40:44.9263564Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1603,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T11:42:14.8023092Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1482,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T11:43:42.3836436Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1609,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T11:44:42.3885971Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1757,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T11:46:12.3974674Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1568,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T11:47:44.7599199Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1557,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T11:49:12.7936306Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1520,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T11:50:12.9159104Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1486,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T11:51:42.3858217Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1651,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T11:53:12.3741599Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1677,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T11:54:12.3852499Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1556,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T11:55:42.3981423Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1467,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T11:57:12.3870483Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1644,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T11:58:12.519846Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1499,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T11:59:42.385087Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1542,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T12:01:12.3853402Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1445,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T12:02:12.4742837Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1624,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T12:03:42.3839241Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1670,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T12:04:42.3914184Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1601,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T12:06:12.3971575Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1446,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T12:07:42.4037618Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1444,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T12:09:12.3958186Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1787,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T12:10:42.3819871Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1566,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T12:12:12.8932573Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1782,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T12:13:42.6141637Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1677,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T12:15:12.387748Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1511,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T12:16:42.3770191Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1543,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T12:18:12.3838596Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1574,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T12:19:12.3899404Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1458,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T12:20:42.3873143Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1455,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T12:22:12.3830104Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1614,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T12:23:12.4033932Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1539,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T12:24:42.4055592Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1573,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T23:52:26.8587435Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1767,
+    "ErrorMessage": null
+  },
+  {
+    "ProductId": "2d62efbf-014b-4b72-8755-81fbfff7c113",
+    "CheckedAtUtc": "2026-07-06T23:53:56.6773235Z",
+    "IsUp": true,
+    "StatusCode": 200,
+    "ResponseTimeMs": 1506,
+    "ErrorMessage": null
+  }
+]

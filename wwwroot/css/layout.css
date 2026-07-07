@@ -1,4 +1,33 @@
-﻿.topbar {
+﻿
+/*Scroll Bar*/
+/* Webkit browsers (Chrome, Edge, Safari) */
+.custom-scrollbar::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+    background: #ECE4DA; /* track color */
+    border-radius: 8px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+    background: var(--primary-dark); /* thumb color */
+    border-radius: 8px;
+    border: 2px solid #ECE4DA; /* creates padding effect around thumb */
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: #822F04;
+}
+
+/* Firefox */
+.custom-scrollbar {
+    scrollbar-width: thin;
+    scrollbar-color: var(--primary-dark) #ECE4DA;
+}
+/*Scroll Bar*/
+.topbar {
 /*    background: var(--light);*/
     position: sticky;
     width: 100%;
